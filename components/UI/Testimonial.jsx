@@ -39,7 +39,7 @@ const Testimonial = ({ feedbacks = [] }) => {
   return (
     <section>
       <Container>
-        <SectionSubtitle subtitle="Testimonials" />
+        <SectionSubtitle subtitle="Testimonial" />
         <h4 className="mt-4 mb-5 text-2xl">Feedback from students</h4>
         <Row className="sm:p-2 p-10">
           <Slider {...settings}>
