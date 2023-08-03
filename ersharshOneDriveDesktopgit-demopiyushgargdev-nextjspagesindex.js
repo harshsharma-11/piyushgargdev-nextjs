@@ -1,0 +1,505 @@
+[33mcommit 81c93e06f0852ef7a7ff5a23e469a60331d0f470[m[33m ([m[1;36mHEAD -> [m[1;32mfix/margin-terminal[m[33m, [m[1;31mupstream/main[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 7ac0eb6 8499b89
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Mon Jun 19 12:26:11 2023 +0530
+
+    Merge pull request #207 from Satyam-G5/feat/hover-icon-transition
+    
+    [feat]:hover icon transition on navbar icons
+
+[33mcommit 8499b897f126bf27c7b470f3a0a7e74380839140[m
+Author: Satyam-G5 <satyamshukla4916@gmail.com>
+Date:   Mon Jun 19 12:14:34 2023 +0530
+
+    feat:removed spaces
+
+[33mcommit c208f6a991433ec12ab4908971bf387a074ccd15[m
+Author: Satyam-G5 <satyamshukla4916@gmail.com>
+Date:   Mon Jun 19 12:11:07 2023 +0530
+
+    feat: transition effect
+
+[33mcommit 71b9e14c5156c365ae3d0e71ed75bfdfb1c213bc[m
+Author: Satyam-G5 <satyamshukla4916@gmail.com>
+Date:   Mon Jun 19 12:00:10 2023 +0530
+
+    fixes:#206
+
+[33mcommit 7ac0eb6300ed27347786696fb5a6605ffaf05155[m
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sat Jun 17 17:41:23 2023 +0530
+
+    Indent Fix
+
+[33mcommit e5be02ab8a17435cd9b7869b58575a708495b6d4[m
+Author: Piyush Garg <torvalds@linux-foundation.org>
+Date:   Sat Jun 17 11:27:06 2023 +0530
+
+    Remove lower case function from env
+
+[33mcommit 75e8d168f22f879b4b898fdc8e582a58ed17f5a6[m
+Author: Piyush Garg <harkirat96@gmail.com>
+Date:   Sat Jun 17 11:10:53 2023 +0530
+
+    Code Formatting done
+
+[33mcommit dbb6d55661c46c9d52bb4771225c4b30887e4c30[m
+Author: Piyush Garg <kunalkushwaha453@gmail.com>
+Date:   Sat Jun 17 11:10:19 2023 +0530
+
+    Added Lower Case Check
+
+[33mcommit d72a0d1d8e0cbd442ea7e28662e7b3e2c5f0b9d1[m
+Author: Piyush Garg <mehulmpt@gmail.com>
+Date:   Sat Jun 17 11:09:38 2023 +0530
+
+    Added yarn.lock file
+
+[33mcommit 9109638bc7499f9af7f9a2876ae551aab1b2cbd2[m
+Merge: b55f6d2 3dfef7d
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Mon Jun 12 19:40:03 2023 +0530
+
+    Merge pull request #186 from piyushgarg-dev/revert-185-feature/youtube-icon-add
+    
+    Revert "feat: added youtube icon in youtube section"
+
+[33mcommit 3dfef7d9ee886ceaf38a9a72e3c6e65f54622d79[m
+Author: Piyush Garg <gargpiyush195@gmail.com>
+Date:   Mon Jun 12 19:39:45 2023 +0530
+
+    Revert "feat: added youtube icon in youtube section"
+
+[33mcommit b55f6d24869106de356bbeda013897d6394ce14a[m
+Merge: c836ce2 84a424f
+Author: Mohit Pardeshi <99909551+TheMohit2003@users.noreply.github.com>
+Date:   Mon Jun 12 19:15:13 2023 +0530
+
+    Merge pull request #185 from prathamesh2525/feature/youtube-icon-add
+    
+    feat: added youtube icon in youtube section
+
+[33mcommit 84a424f98f3a715b06f3b9388c485607a9537af1[m
+Author: Prathamesh Madniwale <61145586+prathamesh2525@users.noreply.github.com>
+Date:   Mon Jun 12 18:54:27 2023 +0530
+
+    deleted yarn.lock
+
+[33mcommit 7c2a6fa62830d538ed933d0719a8346375cab21e[m
+Author: Prathamesh Madniwale <61145586+prathamesh2525@users.noreply.github.com>
+Date:   Mon Jun 12 17:51:57 2023 +0530
+
+    added youtube icon in youtube display section
+
+[33mcommit c836ce2e34c2d27731145bca24c6262ea9dc4eb2[m
+Merge: c8b8222 d91073a
+Author: Piyush Garg <gargpiyush195@gmail.com>
+Date:   Mon Jun 12 16:24:11 2023 +0530
+
+    Merge pull request #180 from Sameerdeshmukh18/fix/MyGearsPageTopCardHeight
+
+[33mcommit c8b8222aba868c64530a6dca3d865197510d602a[m
+Merge: ae9cf98 eb549a1
+Author: Piyush Garg <gargpiyush195@gmail.com>
+Date:   Mon Jun 12 16:23:09 2023 +0530
+
+    Merge pull request #182 from harsh11-11/fixes/fix-hoverColor-navRightIcons
+
+[33mcommit eb549a1564e3117fc23d17208fe283fabc8edbef[m
+Author: harsh11-11 <h7jain@gmail.com>
+Date:   Mon Jun 12 16:08:31 2023 +0530
+
+    fixed the color from #value to --site-theme-color
+
+[33mcommit b1cf4ea9f461a13e89c21a3f937b06b394a6a441[m
+Merge: 9354375 ae9cf98
+Author: harsh11-11 <h7jain@gmail.com>
+Date:   Mon Jun 12 15:38:02 2023 +0530
+
+    Merge remote-tracking branch 'upstream/main'
+
+[33mcommit 9354375e3fab6d0e82c8c805936bea62f7a60be2[m
+Merge: ea6c813 82b4e70
+Author: harsh11-11 <h7jain@gmail.com>
+Date:   Mon Jun 12 15:31:48 2023 +0530
+
+    Merge branch 'fixes/header-height-and-blog-duplicacy'
+
+[33mcommit d91073a8a2b6c55090cf1898276c8ebf3608c27f[m
+Author: Sameer Deshmukh <sameerdeshmukh827@gmail.com>
+Date:   Mon Jun 12 15:24:00 2023 +0530
+
+    added overflow
+
+[33mcommit ae9cf989570b16356649f9110b4a8b0973cb8001[m
+Merge: e7e9397 dd2612b
+Author: Piyush Garg <gargpiyush195@gmail.com>
+Date:   Mon Jun 12 15:16:36 2023 +0530
+
+    Merge pull request #178 from deependujha/bug/blog-external-url
+
+[33mcommit dd2612b98293291f72a7b7dbe03ab9446e89ef10[m
+Merge: 3d24327 e7e9397
+Author: Deependu Jha <deependujha21@gmail.com>
+Date:   Mon Jun 12 15:00:19 2023 +0530
+
+    Merge branch 'piyushgarg-dev:main' into bug/blog-external-url
+
+[33mcommit 3d24327b9bf071b7f332faf87c3cc9b8393f7093[m
+Author: deependujha <deependujha21@gmail.com>
+Date:   Mon Jun 12 14:56:23 2023 +0530
+
+    added property `openInNewPage` in NAV_LINK and opening the link on the basis of it
+
+[33mcommit e7e9397fbb1c03e694099cbb677b1a144044b33f[m
+Merge: ea6c813 82b4e70
+Author: Mohit Pardeshi <99909551+TheMohit2003@users.noreply.github.com>
+Date:   Mon Jun 12 14:35:51 2023 +0530
+
+    Merge pull request #172 from harsh11-11/fixes/header-height-and-blog-duplicacy
+    
+    fix: changes in header height and duplicate use of style in blog
+
+[33mcommit 2277c7f6b96fe382913e44ff0cc4daeed9ec5832[m
+Author: Sameer Deshmukh <sameerdeshmukh827@gmail.com>
+Date:   Mon Jun 12 14:30:19 2023 +0530
+
+    My gears top cards fix
+
+[33mcommit a88128051f3d3cc4bc6d8131173021dac2342d14[m
+Author: deependujha <deependujha21@gmail.com>
+Date:   Mon Jun 12 14:24:11 2023 +0530
+
+    fixed: 'blogs link'(different url) in the navbar opens in different page
+
+[33mcommit ea6c813514da39a8bc9fbb3b0d43b6125fcc7b56[m
+Merge: c1b51cf 12eaa3a
+Author: Mohit Pardeshi <99909551+TheMohit2003@users.noreply.github.com>
+Date:   Mon Jun 12 13:24:58 2023 +0530
+
+    Merge pull request #176 from simrin3308/feat/hoverOnSocialMediaBtns
+    
+    feat: Added hover On Social Media Icons again
+
+[33mcommit 12eaa3a570e885cf88fd3caec92efaba3cd5b645[m
+Author: Simrin Pal Singh <codingwithsaam@gmail.com>
+Date:   Mon Jun 12 12:51:06 2023 +0530
+
+    fixed hover on social media icons in navbar
+
+[33mcommit 82b4e70334e3cc1d887f901ff0d90b1c1ba1d542[m
+Author: harsh11-11 <h7jain@gmail.com>
+Date:   Mon Jun 12 12:37:05 2023 +0530
+
+    fixed minor changes in header height and duplicacy in blog
+
+[33mcommit c1b51cf6bed44ee72736d2f72a67fcf0de345989[m
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Mon Jun 12 11:41:00 2023 +0530
+
+    Changes to Template Link
+
+[33mcommit 81386ee34eba70d7918a2ebf51f69b5d58bd8383[m
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Mon Jun 12 11:38:40 2023 +0530
+
+    Changes
+
+[33mcommit 505c80276a572d9b09daa7d0b98b3e45a3fb41f1[m
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Mon Jun 12 11:37:41 2023 +0530
+
+    Added Multiple Templates
+
+[33mcommit b29850a3d7b5f9d4890265248893a42247513d02[m
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Mon Jun 12 11:36:10 2023 +0530
+
+    Added Visual Form
+
+[33mcommit df8fe8a5d07eabd974664e2f42e0c43eec024fe9[m
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Mon Jun 12 11:24:19 2023 +0530
+
+    Added Auto Label in Template
+
+[33mcommit 552c240e33a454996651cc0f26ba511f5530936b[m
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Mon Jun 12 11:23:15 2023 +0530
+
+    Indent Fixes
+
+[33mcommit ac656a4485ec2945cca678e166f4ef32d1dce4b9[m
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Mon Jun 12 11:22:32 2023 +0530
+
+    Remove Labeler
+
+[33mcommit c9cadffb85fbd8aa172970b761f144a5499ae0e1[m
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Mon Jun 12 11:22:03 2023 +0530
+
+    Added Login and Logout Button
+
+[33mcommit 1f030dabe936368d3f334a4718568ba2786135d6[m
+Merge: c905918 cdd27fa
+Author: Mohit Pardeshi <99909551+TheMohit2003@users.noreply.github.com>
+Date:   Mon Jun 12 10:34:15 2023 +0530
+
+    Merge pull request #170 from The-Alan-Turing/fix/Contact-Me-Text-Align
+    
+    fix: Contact me Text Alignment
+
+[33mcommit cdd27fa74d4c05806e7b1f2637d02d625c50c0be[m
+Author: AlanT <mail.alanturing@gmail.com>
+Date:   Mon Jun 12 09:49:46 2023 +0530
+
+    align contact me text with connect with me text
+
+[33mcommit 6737d1dc9fb208537a7451cfc0d078533ae189bc[m
+Author: AlanT <mail.alanturing@gmail.com>
+Date:   Mon Jun 12 09:32:56 2023 +0530
+
+    Contact me Text Alignment
+
+[33mcommit c905918576392bc6585d2f2daa349f051102fbec[m
+Merge: b1fd006 67bcb04
+Author: Mohit Pardeshi <99909551+TheMohit2003@users.noreply.github.com>
+Date:   Mon Jun 12 07:59:45 2023 +0530
+
+    Merge pull request #168 from sheryarking5/fix/student-testimonial-image
+    
+    fix: student lmages Height in student feedback testimonials
+
+[33mcommit 67bcb04fdb21c370a7e4df6f8406542321e70ac4[m
+Author: Sheryar <sheryarking5@gmail.com>
+Date:   Sun Jun 11 22:08:30 2023 +0500
+
+    fix the height of image in student feedback testimonial
+
+[33mcommit 75cf2f75607957253f75bcadff07c1d249de2914[m
+Author: Sheryar <sheryarking5@gmail.com>
+Date:   Sun Jun 11 21:01:34 2023 +0500
+
+    fix student testimonial height
+
+[33mcommit b1fd006df9c4345f8a87c65acc0047b1167cb1ff[m
+Merge: 3d6091c cecaaca
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 19:02:11 2023 +0530
+
+    Merge pull request #100 from ritikchhipa01/fix/conflict
+    
+    fix: courses keywords responsive and recent blogs overlapping
+
+[33mcommit cecaaca9b0096435fcfe7fe531659e50f68ed940[m
+Merge: 0602eba 3d6091c
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 19:01:28 2023 +0530
+
+    Merge branch 'main' into fix/conflict
+
+[33mcommit 3d6091c1a7011c460520723d93393f103ae31422[m
+Merge: e77e803 3bd4766
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 18:57:20 2023 +0530
+
+    Merge pull request #110 from mohibkay/develop
+    
+    fix: alignment of discord button and Piyush's pic
+
+[33mcommit 3bd476669852799f856cdb4d66d369df640e290e[m
+Merge: 897d4e0 e77e803
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 18:56:48 2023 +0530
+
+    Merge branch 'main' into develop
+
+[33mcommit e77e8037dffc5b31aa26b6b96ca33c57537f60b1[m
+Merge: 9c186f8 a40fe19
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 18:54:20 2023 +0530
+
+    Merge pull request #133 from simrin3308/feat/hoverOnSocialMediaBtnsInContact
+    
+    feat: Implemented hover On Social Media buttons In Contact page.
+
+[33mcommit a40fe191c6bd8d84053557bb0dcbaa28796b7060[m
+Merge: 4569ab8 9c186f8
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 18:54:06 2023 +0530
+
+    Merge branch 'main' into feat/hoverOnSocialMediaBtnsInContact
+
+[33mcommit 9c186f8a15aba8b2ef4dc8a8ff01aba5a11dbd0a[m
+Merge: f2d18a7 a74ddb1
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 18:52:32 2023 +0530
+
+    Merge pull request #153 from VedP20/fix/form-look
+    
+    fix: form look and layout, mobile layout shift and arrow of slider component and video date style
+
+[33mcommit a74ddb1ad47d3687a8738ed5d90fc4ec5ed71d95[m
+Merge: 21ac2f2 f2d18a7
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 18:52:24 2023 +0530
+
+    Merge branch 'main' into fix/form-look
+
+[33mcommit f2d18a7e2c7c59908e3db3f8887378739b973f72[m
+Merge: 3c50bb4 a993c36
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 18:51:47 2023 +0530
+
+    Merge pull request #129 from mohammadashphak/fix/layout-overflow-mobile
+    
+    fix: #109 Layout overflow fix in x-axis
+
+[33mcommit a993c368ece728137d402ea2ee1dfc31de5f0a0f[m
+Merge: 68aa88a 3c50bb4
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 18:51:42 2023 +0530
+
+    Merge branch 'main' into fix/layout-overflow-mobile
+
+[33mcommit 3c50bb45b2e0b44d6fd147d053f88223dc85ea31[m
+Merge: bc8b0f8 02ecc8b
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 18:43:20 2023 +0530
+
+    Merge pull request #158 from Akash-Trimbake/fix_118
+    
+    fix: #118 Added hover effect on the social media icons.
+
+[33mcommit bc8b0f8a54b8e49632ee59b6df71a5c488e087e3[m
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 17:56:23 2023 +0530
+
+    Fix linting issues
+
+[33mcommit c86fcbe276f96db47c8e8cd2e126740785797aa3[m
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 17:55:37 2023 +0530
+
+    remove package.json
+
+[33mcommit eec2acbdd3be44ac075342b52a691883cc3debba[m
+Merge: 2503d7a 001f3f5
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 17:55:14 2023 +0530
+
+    Merge pull request #164 from VedP20/fix/syntax-error-inside-header
+    
+    fix: header style and syntax error
+
+[33mcommit 001f3f5645014a04c00c78450993e9a483b5ae0f[m
+Merge: 82f730d 2503d7a
+Author: Piyush Garg <piyushgarg.dev@gmail.com>
+Date:   Sun Jun 11 17:55:09 2023 +0530
+
+    Merge branch 'main' into fix/syntax-error-inside-header
+
+[33mcommit 2503d7a5950debf92baf70e9bd3c39b7a7c3ee89[m
+Merge: 8319260 acaaf0a
+Author: Mohit Pardeshi <99909551+TheMohit2003@users.noreply.github.com>
+Date:   Sun Jun 11 15:47:57 2023 +0530
+
+    Merge pull request #38 from Bajaj2O/fix/sm-hero-UI
+    
+    fix: #36  added mobile view for hero Component/fixed UI for small devices.
+
+[33mcommit 82f730d1221395e9748aa1faa11e3515580ea8ea[m
+Author: VedP20 <ved@capcons.com>
+Date:   Sun Jun 11 15:23:38 2023 +0530
+
+    fix: header style and syntax error
+
+[33mcommit 02ecc8bb45b5480d71fa94ec0601fa404b9d5d97[m
+Author: akash <trimbakeakash5@gmail.com>
+Date:   Sun Jun 11 10:15:48 2023 +0530
+
+    fix: #118
+
+[33mcommit 8319260adcbf6175f467218da7a48a43b37a11fb[m
+Merge: 7eaa40d 647a27e
+Author: Mohit Pardeshi <99909551+TheMohit2003@users.noreply.github.com>
+Date:   Sun Jun 11 09:36:48 2023 +0530
+
+    Merge pull request #145 from Ankush-Ladani/feat/adding-nav-icon-in-small-screen
+    
+    feat: Added navigation icons for small screens
+
+[33mcommit 647a27ea5172a8d00c07c9ec9ca40a277193e1da[m
+Merge: 56173ad 7eaa40d
+Author: Ladani Ankush <astarladani@gmail.com>
+Date:   Sun Jun 11 08:05:32 2023 +0530
+
+    Merge branch 'main' into feat/adding-nav-icon-in-small-screen
+
+[33mcommit 21ac2f226a38bcd874c26d466dbbd024c3f1edd5[m
+Author: VedP20 <ved@capcons.com>
+Date:   Sat Jun 10 19:25:51 2023 +0530
+
+    fix: video date seprated
+
+[33mcommit 43ffad74abcb852f1d6e9b8b6955104cb00fd685[m
+Merge: 4b70cfc 7eaa40d
+Author: VedP20 <ved@capcons.com>
+Date:   Sat Jun 10 19:00:00 2023 +0530
+
+    Merge branch 'main' of https://github.com/VedP20/piyushgargdev-nextjs into fix/form-look
+
+[33mcommit 4b70cfce632a8da8c0f41ef4e1647fec3e7cce5e[m
+Author: VedP20 <ved@capcons.com>
+Date:   Sat Jun 10 18:55:53 2023 +0530
+
+    fix: form and mobile layout shifting
+
+[33mcommit 56173ad0159361d178cbf0e710e40eaf865f1a67[m
+Author: Ankush Ladani <astarladani@gmail.com>
+Date:   Sat Jun 10 16:46:46 2023 +0530
+
+    Icons changed for Login and gears
+
+[33mcommit 7eaa40daffb9f12b2ee4ebe356765f84046676df[m
+Merge: f83b59a 35337ae
+Author: Mohit Pardeshi <99909551+TheMohit2003@users.noreply.github.com>
+Date:   Sat Jun 10 16:29:10 2023 +0530
+
+    Merge pull request #143 from luckyklyist/Courses/Card
+    
+    fix: courses card hover effect
+
+[33mcommit f83b59a767ea705202e7f3c1dd81afd8a54802e8[m
+Merge: 1a49174 fd36715
+Author: Mohit Pardeshi <99909551+TheMohit2003@users.noreply.github.com>
+Date:   Sat Jun 10 16:25:09 2023 +0530
+
+    Merge pull request #150 from ChavvaNarayana/main
+    
+    feat: Replaced previous social media icons with filled version.
+
+[33mcommit 1a491746d4f23c682b56c4a63ba89d1eeb2d6468[m
+Merge: bc39dfa ec5df7c
+Author: Mohit Pardeshi <99909551+TheMohit2003@users.noreply.github.com>
+Date:   Sat Jun 10 16:24:07 2023 +0530
+
+    Merge pull request #149 from VedP20/fix/spacing-issue-between-text-subscribe-button
+    
+    fix: spacing issue between the text and subscribe button
+
+[33mcommit bc39dfa53fb3f7fb77c238575e54b1b9034df16b[m
+Merge: 7a78d71 51d0eaf
+Author: Mohit Pardeshi <99909551+TheMohit2003@users.noreply.github.com>
+Date:   Sat Jun 10 16:16:16 2023 +0530
+
+    Merge pull request #142 from luckyklyist/Testimonials/Btn-fix
+    
+    fix: Testimonials button alignment issue
+
+[33mcommit fd36715330ccad3d588a046fcc8df285e43d5df9[m
+Author: Narayana_Reddy <narayanachavva@gmail.com>
+Date:   Sat Jun 10 14:26:18 2023 +0530
+
+    Replaced previous icons with filled version
